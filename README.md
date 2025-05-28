@@ -1,4 +1,4 @@
-# Assignment-No.-17--SVM-Salary_data
+# SVM-Salary_data
  Prepare a classification model using SVM for salary data 
  
  Data Description:
